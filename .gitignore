@@ -3,8 +3,6 @@ __pycache__/
 .env
 .venv/
 venv/
-generated_docs/
-*.docx
 .pytest_cache/
 .vscode/
 .idea/
