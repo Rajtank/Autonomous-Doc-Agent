@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+generated_docs/
+*.docx
+.pytest_cache/
+.vscode/
+.idea/
